@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFA6">Taha Mlaïki</span></h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🧠 Self-taught | 🚀 Always Learning
+  💻 Full Stack Developer | 🚀 Always Learning
 </p>
 
 <p align="center">
